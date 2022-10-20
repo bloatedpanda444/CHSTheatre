@@ -262,7 +262,7 @@ h2 {
 
 @media only screen and (max-width: 900px) and (min-width: 733px){
   #main_image {
-    height: 40%;
+    height: 35%;
   }
   #navbar a {
     font-size: 20px;
@@ -327,10 +327,21 @@ h2 {
     padding-left: 2px;
     padding-right: 2px;
   }
+  .media {
+    width: 300px;
+    height: 200px;
+  }
+  .texty {
+    font-size: 15px;
+  }
+
+  .headers {
+    font-size: 25px;
+  }
 }
 @media only screen and (max-width: 450px){
   #main_image {
-    height: 28%;
+    height: 24%;
   }
   #navbar a {
     font-size: 10px;
